@@ -1,0 +1,5 @@
+public class devopsTesting {
+    public static void test1() {
+        system.debug('This class is only for Devops Testing');
+    }
+}
